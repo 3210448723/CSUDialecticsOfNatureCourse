@@ -1,6 +1,6 @@
 # CSUDialecticsOfNatureCourse
 
-2025 CSU 中南大学 自然辩证法 研究生课程 期末考试 复习资料
+2025 CSU 中南大学 自然辩证法 研究生课程 期末考试 复习资料，在考试前会持续更新。
 
 ## 使用
 
@@ -13,7 +13,6 @@
 
 - 若要下载单个文件夹，复制该文件夹的网址，粘贴入 [DownGit](https://minhaskamal.github.io/DownGit/#/home) 中，点击 Download 即可
 
-	 > 若无法访问以上链接，可以尝试 [这个链接](http://zhoudaxiaa.gitee.io/downgit/#/home)。
-
+  > 若无法访问以上链接，可以尝试 [这个链接](http://zhoudaxiaa.gitee.io/downgit/#/home)。
 - 安装 Chrome 浏览器扩展程序 [GitZip for github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)，双击文件夹即可下载
   > [Edge插件](https://microsoftedge.microsoft.com/addons/detail/gitzip-for-github/nlgkiabjnbdndgblhcaobimbpifcdkjj?hl=zh-CN)
