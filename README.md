@@ -16,3 +16,8 @@
   > 若无法访问以上链接，可以尝试 [这个链接](http://zhoudaxiaa.gitee.io/downgit/#/home)。
 - 安装 Chrome 浏览器扩展程序 [GitZip for github](https://chrome.google.com/webstore/detail/gitzip-for-github/ffabmkklhbepgcgfonabamgnfafbdlkn)，双击文件夹即可下载
   > [Edge插件](https://microsoftedge.microsoft.com/addons/detail/gitzip-for-github/nlgkiabjnbdndgblhcaobimbpifcdkjj?hl=zh-CN)
+
+## TODO
+
+1. 完善选择题
+2. 为某些抽象概念和联系画关系图
